@@ -6,13 +6,14 @@ import { WhatsappFloat } from "./WhatsappFloat.tsx";
 import { ArrowDown, MapPin, Phone, Instagram, Youtube } from "lucide-react";
 import { CardStack, type CardStackItem } from "./components/ui/card-stack";
 
-const IMG_HERO = "/src/public/hero/Hero.png";
+const IMG_HERO = "/hero/Hero.png";
 
-const IMG_ABOUT = "/src/public/about/sobre.png";
+const IMG_ABOUT = "/about/Sobre.png";
 
-const IMG_CONTENT_A = "/src/public/Humanização.png";
-const IMG_CONTENT_B = "/src/public/podcasts/capapodcast2.png";
-const IMG_CONTENT_C = "/src/public/podcasts/capapodcast3.png";
+const IMG_CONTENT_A = "/Humanização.png";
+const IMG_CONTENT_B = "/podcasts/capapodcast2.png";
+const IMG_CONTENT_C = "/podcasts/capapodcast3.png";
+
 const INSTAGRAM_URL = "https://www.instagram.com/carlianoassuncao/";
 const WHATSAPP_URL =
   "https://wa.me/558899815110?text=Ol%C3%A1%2C%20Carliano.%20Encontrei%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20atendimento%20psicol%C3%B3gico.%20Poderia%20me%20orientar%20sobre%20disponibilidade%20e%20funcionamento%20das%20consultas%3F";
